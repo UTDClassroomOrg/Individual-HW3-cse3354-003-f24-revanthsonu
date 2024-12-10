@@ -117,4 +117,4 @@ public int average(int k, int[] list) {
 | testAverageWithNegativeAndPositiveValues | Passed |
 
 ## g. Code Coverage
-<img width="1728" alt="Screenshot 2024-12-09 at 11 53 11 PM" src="https://github.com/user-attachments/assets/7ffebec2-46aa-48aa-9f72-96dce518a3be">
+<img width="1728" alt="Screenshot 2024-12-09 at 11 55 18 PM" src="https://github.com/user-attachments/assets/2bd7295a-410a-44c7-b4a4-71b62fea4e94">
